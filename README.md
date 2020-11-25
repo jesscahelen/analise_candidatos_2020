@@ -15,7 +15,7 @@ Análise de Candidatos* por partidos denominados de esquerda e direita** e divid
 
 [Candidatos (2020)](https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2020.zip)
 
-[Bem dos Candidatos (2020)](https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2020.zip)
+[Bens dos Candidatos (2020)](https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2020.zip)
   
 
 *candidatos com candidaturas aptas e não está concorrendo reeleição.
