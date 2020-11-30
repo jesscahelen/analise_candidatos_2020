@@ -1,23 +1,26 @@
 
 # analise_candidatos_2020
 
-Análise de Candidatos* por partidos denominados de esquerda e direita** e divididos por região do país das eleições de 2020.
-
+Análise dos novos candidatos* nas eleições de 2020, dividos por partidos nos espectros políticos da esquerda e direita** e região do país, nos quesitos de:
   
+- Porcentual de cada raça (presença de minorias)
 
-- Uso de Fundo Partidário
+- Porcentual de mulheres
 
-- Quantidade média de bens por candidato
+- Gasto médio das campanhas
 
-- Presença de mulheres e minorias nos novos candidatos
+*candidatos com candidaturas aptas e não está concorrendo reeleição.
+
+**divisão dos espectros feita com base na análise: [Direita ou esquerda? Análise de votações indica posição de partidos brasileiros no espectro ideológico](https://www.bbc.com/portuguese/brasil-41058120) - partidos criados a partir de 2017 foram categorizados no espectro político em que se declaram
 
 **Base de dados**:
 
 [Candidatos (2020)](https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2020.zip)
-
-[Bens dos Candidatos (2020)](https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2020.zip)
   
 
-*candidatos com candidaturas aptas e não está concorrendo reeleição.
+### Créditos
 
-**com base na análise: [Direita ou esquerda? Análise de votações indica posição de partidos brasileiros no espectro ideológico](https://www.bbc.com/portuguese/brasil-41058120)
+Trabalho realizado para a matéria de Projeto de Bancos de Dados Nao Relacionais da Fatec-SJC pelos alunos:
+
+- Jessica Helen Helbusto Rosado
+- Marcelo Fernando de Souza Teixeira
